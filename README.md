@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Timmy160
 - 👀 I’m interested in ... coding 
-- 🌱 I’m currently learning ...React.js
+  
 - 💞️ I’m looking to collaborate on ... Coding 
 - 📫 How to reach me ... awosusitimilehin16@gmail.com
 
